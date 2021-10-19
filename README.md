@@ -23,6 +23,7 @@ In this place I will upload some exercises of the university and some other proy
 
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
   [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+  [![Java](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
   <br>
   [![HTML](https://img.shields.io/badge/HTML-F16616?style=for-the-badge&logo=HTML&logoColor=white)]()
   [![CSS](https://img.shields.io/badge/CSS-24A2E9?style=for-the-badge&logo=CSS&logoColor=white)]()
