@@ -8,6 +8,7 @@ In this place I will upload some exercises of the university and some other proy
 ## 📚 Learning 
 
 -> Computer Engineering at the [University of Córdoba](http://www.uco.es/)
+
 -> Colaborating at [Aula de Software Libre](https://www.uco.es/aulasoftwarelibre/)
 
 <br>
