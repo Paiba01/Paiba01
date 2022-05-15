@@ -1,5 +1,5 @@
 ## 👤 About me
-Hi! I'm Pablo, a computer engineering student from Cordoba, Spain 🇪🇸📍
+Hi! I'm Pablo, a computer engineering student from Cordoba, Spain 📍
 
 In this place I will upload some exercises of the university and some other proyects. Check it out!!👾
 
