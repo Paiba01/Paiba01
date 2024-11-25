@@ -42,9 +42,7 @@ In this place I will upload some exercises of the university and some other proy
 
 <br>
 
-## 💼 Portfolio
-
-https://portfoliopaiba.netlify.app/
+## 💼 [Portfolio](https://portfoliopaiba.netlify.app/)
 
 
 <br>
