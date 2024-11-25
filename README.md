@@ -41,3 +41,10 @@ In this place I will upload some exercises of the university and some other proy
   [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)]()
 
 <br>
+
+## 💼 Portfolio
+
+https://portfoliopaiba.netlify.app/
+
+
+<br>
