@@ -20,6 +20,7 @@ In this place I will upload some exercises of the university and some other proy
 [![My Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJvlHfDCTstnxNWHWJCZJnMPzqpCpcDjtlGVzLKRxRwspKbQzTBBRRhGXMPFcDVDMsdpbFL)
 [![My Instagram](https://img.shields.io/badge/-INSTAGRAM-9718D6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paiba_/)
 [![My Twitter](https://img.shields.io/badge/TWITTER-0CA0CB?style=for-the-badge&logo=x&logoColor=white&logoSize=auto&labelColor=0CA0CB)](https://twitter.com/paiba_)
+[![My Linkedin](https://img.shields.io/badge/LINKEDIN-3776AB?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&labelColor=3776AB)](https://www.linkedin.com/in/pablo-iba%C3%B1ez-fern%C3%A1ndez-delgado-39039823b/)
 
 <br>
 
