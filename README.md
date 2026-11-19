@@ -29,8 +29,6 @@ I have **3 years of experience** building and modernizing a logistics SaaS in ac
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-00C9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://portfoliopaiba.netlify.app/)
 [![Email](https://img.shields.io/badge/-paiba.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paiba.dev@gmail.com)
 [![My Linkedin](https://img.shields.io/badge/LINKEDIN-3776AB?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto&labelColor=3776AB)](https://www.linkedin.com/in/paiba-software-engineer/)
-[![My Instagram](https://img.shields.io/badge/-INSTAGRAM-9718D6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paiba_/)
-[![My Twitter](https://img.shields.io/badge/TWITTER-0CA0CB?style=for-the-badge&logo=x&logoColor=white&logoSize=auto&labelColor=0CA0CB)](https://twitter.com/paiba_)
 
 <br>
 
